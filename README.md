@@ -1,4 +1,6 @@
 # CS111CProjectC
+Array-Based List Implementation
+
 Implement the list interface described in Project B: Interfaces using an array-based implementation. As a reminder, that interface described a list that works like this:
 
 entries can only be added to and removed from the beginning or end of the list
